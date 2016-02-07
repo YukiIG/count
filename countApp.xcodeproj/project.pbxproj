@@ -14,6 +14,14 @@
 		B65A42121C65740600899D55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B65A42101C65740600899D55 /* LaunchScreen.storyboard */; };
 		B65A421D1C65740600899D55 /* countAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65A421C1C65740600899D55 /* countAppTests.swift */; };
 		B65A42281C65740600899D55 /* countAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65A42271C65740600899D55 /* countAppUITests.swift */; };
+		B65A423D1C6576C000899D55 /* 天国.png in Resources */ = {isa = PBXBuildFile; fileRef = B65A42351C6576C000899D55 /* 天国.png */; };
+		B65A423E1C6576C000899D55 /* ojiisan.png in Resources */ = {isa = PBXBuildFile; fileRef = B65A42361C6576C000899D55 /* ojiisan.png */; };
+		B65A423F1C6576C000899D55 /* 初老.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B65A42371C6576C000899D55 /* 初老.jpg */; };
+		B65A42401C6576C000899D55 /* 青年.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B65A42381C6576C000899D55 /* 青年.jpg */; };
+		B65A42411C6576C000899D55 /* 中年.png in Resources */ = {isa = PBXBuildFile; fileRef = B65A42391C6576C000899D55 /* 中年.png */; };
+		B65A42421C6576C000899D55 /* ヤンキー.png in Resources */ = {isa = PBXBuildFile; fileRef = B65A423A1C6576C000899D55 /* ヤンキー.png */; };
+		B65A42431C6576C000899D55 /* 小学生.png in Resources */ = {isa = PBXBuildFile; fileRef = B65A423B1C6576C000899D55 /* 小学生.png */; };
+		B65A42441C6576C000899D55 /* 赤ちゃん.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B65A423C1C6576C000899D55 /* 赤ちゃん.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		B65A42231C65740600899D55 /* countAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B65A42271C65740600899D55 /* countAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countAppUITests.swift; sourceTree = "<group>"; };
 		B65A42291C65740600899D55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B65A42351C6576C000899D55 /* 天国.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "天国.png"; sourceTree = "<group>"; };
+		B65A42361C6576C000899D55 /* ojiisan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ojiisan.png; sourceTree = "<group>"; };
+		B65A42371C6576C000899D55 /* 初老.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "初老.jpg"; sourceTree = "<group>"; };
+		B65A42381C6576C000899D55 /* 青年.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "青年.jpg"; sourceTree = "<group>"; };
+		B65A42391C6576C000899D55 /* 中年.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "中年.png"; sourceTree = "<group>"; };
+		B65A423A1C6576C000899D55 /* ヤンキー.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ヤンキー.png"; sourceTree = "<group>"; };
+		B65A423B1C6576C000899D55 /* 小学生.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小学生.png"; sourceTree = "<group>"; };
+		B65A423C1C6576C000899D55 /* 赤ちゃん.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "赤ちゃん.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +113,14 @@
 		B65A42061C65740600899D55 /* countApp */ = {
 			isa = PBXGroup;
 			children = (
+				B65A42351C6576C000899D55 /* 天国.png */,
+				B65A42361C6576C000899D55 /* ojiisan.png */,
+				B65A42371C6576C000899D55 /* 初老.jpg */,
+				B65A42381C6576C000899D55 /* 青年.jpg */,
+				B65A42391C6576C000899D55 /* 中年.png */,
+				B65A423A1C6576C000899D55 /* ヤンキー.png */,
+				B65A423B1C6576C000899D55 /* 小学生.png */,
+				B65A423C1C6576C000899D55 /* 赤ちゃん.jpg */,
 				B65A42071C65740600899D55 /* AppDelegate.swift */,
 				B65A42091C65740600899D55 /* ViewController.swift */,
 				B65A420B1C65740600899D55 /* Main.storyboard */,
@@ -230,8 +254,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				B65A42121C65740600899D55 /* LaunchScreen.storyboard in Resources */,
+				B65A423E1C6576C000899D55 /* ojiisan.png in Resources */,
+				B65A42411C6576C000899D55 /* 中年.png in Resources */,
 				B65A420F1C65740600899D55 /* Assets.xcassets in Resources */,
+				B65A42421C6576C000899D55 /* ヤンキー.png in Resources */,
+				B65A42441C6576C000899D55 /* 赤ちゃん.jpg in Resources */,
+				B65A42401C6576C000899D55 /* 青年.jpg in Resources */,
 				B65A420D1C65740600899D55 /* Main.storyboard in Resources */,
+				B65A423D1C6576C000899D55 /* 天国.png in Resources */,
+				B65A42431C6576C000899D55 /* 小学生.png in Resources */,
+				B65A423F1C6576C000899D55 /* 初老.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
